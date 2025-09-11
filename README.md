@@ -2,12 +2,12 @@
 
 
 
-<h1 align="center">𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 </h1>
+<h1 align="center">GETSUGA-XMD </h1>
 
 <img align="center" height="auto"
-src="https://mrfrankk-cdn.hf.space/mrfrank/menu.png">
+src="https://files.catbox.moe/bu7bs1.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+SUBZERO+MD+MADE+BY;MR+FRANK+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+SUBZERO+MD+MADE+BY;☆+5PHESIHLE+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
 
    </p>
