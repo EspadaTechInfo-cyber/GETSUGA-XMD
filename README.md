@@ -1,130 +1,91 @@
+<!--SUBZERO V5 FINAL || DO NOT COPY MY README WITHOUT CREDITS-->
 
 
+
+<h1 align="center">𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 </h1>
+
+<img align="center" height="auto"
+src="https://mrfrankk-cdn.hf.space/mrfrank/menu.png">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+SUBZERO+MD+MADE+BY;MR+FRANK+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+<br>
+
+   </p>
 <p align="center">
-<a href="https://wa.me/+27710200228?text=*ʜɪɪ+𝙄𝘾𝙃𝙄𝙂𝙊☾--+ɪ+ɴᴇᴇᴅ+ʏᴏᴜʀ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝐆𝐄𝐓𝐒𝐔𝐆𝐀_𝐓𝐄𝐍𝐒𝐇𝐎𝐔+ʀᴇᴘᴏ!!*"><img title="Author" src="https://files.catbox.moe/bu7bs1.jpg?style=for-the-badge&logo=github"></a>
-
-
-<div align="center">
-<a href="https://youtube.com/@hoekagetech?si=NLKL8ZSZwGL2Gjmj/"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=50&pause=1000&color=FFFF00&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel; CODED+By+SPHE+AND+TRISTAN" alt="Fire SVG" /></a>
-  
-
-----------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
--------
+<a href="https://github.com/mrfr8nk"><img title="Author" src="https://img.shields.io/badge/mrfrank-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@mrfr4nk"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263719647303"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<p/> 
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=FFF&center=true&vCenter=true&multiline=false&lines=`GETSUGA+TENSHOU+MD+WHATSAPP+BOT`" alt="">
+<a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=purple&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfrankofcc/SUBZERO-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/rfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/SUBZERO-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/mrfr8nk.svg"></a>&nbsp;&nbsp;</a>
+<a href="https://github.com/mrfrankofcc/SUBZERO-MD"Dev"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mrfr8nk&label=VIEWS&style=flat-square&color=blue" />
+</a>
+<p align="center">
+  <a href="https://github.com/mrfrankofcc/SUBZERO-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5.0.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
-------------
-
-
-<br>
-
-`✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏`
-
-<br>
-
-  <p align="center">
-<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/followers"><img title="Followers" src="https://img.shields.io/github/followers/ICHIGO?color=red&style=flat-square"></a>
-<a href="https://github.com/https://github.com/EspadaTechinfo/GETSUGA-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/EspadaTechinfo/GETSUGA-XMD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/EspadaTechinfo/GETSUGA-XMD?color=green&style=flat-square"></a>
-
-</p>
 <p align='center'>
+    </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+    <strong>𝗙𝗢𝗥𝗞 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗬 </strong>
+  <br>
+    <a href="https://github.com/MRFRANKOFCC/SUBZERO-MD/fork" target="_blank">
+        <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
+    </a>
+</p>
+<p align="center">
+    <strong>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝗜𝗗 </strong>
+  <br>
+    <a href="https://subzero-auth.koyeb.app" target="_blank">
+        <img alt="Session ID" src="https://img.shields.io/badge/SESSION%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkpurple"/>
+    </a>
+</p>
+<h2 align="center">  𝗚𝗘𝗧 𝗦𝗧𝗔𝗥𝗧𝗘𝗗
+</h2>
 
-  <a aria-label="Join our chats" href="https://www.instagram.com/tsukuyomi_md/profilecard/?igsh=ajRoZTNrbzU3MjNu" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Follow-AA336A?style=for-the-badge&logo=instagram&logoColor=pink" />
-  </a>
- 
-<a href="https://raganork.online/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
 <div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/mrfrankofcc/SUBZERO-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://talkdrove.com/share-bot/11" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=mrfrankofcc/SUBZERO-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://github.com/mrfrankofcc/SUBZERO-MD/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Panel-File-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
 
-## _[Koyeb: How to deploy](https://youtube.com/@hoekagetech?si=0-UZBiUnuFwi_pu8)_
-
-
-<div align="left">
----
-
-
- <p align="center"><img src="https://profile-counter.glitch.me/{GETSUGA-XMD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
-
-
-  <p align="center"> Meet 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
-  
-  <a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/fork"><img title="𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔" src="https://img.shields.io/badge/FORK/-𝐆𝐄𝐓𝐒𝐔𝐆𝐀 -h?color=red&style=for-the-badge&logo=stackshare"></a>
-
-## _Note: Use a VPN according to the server you choose if the session logs out automatically._
-<br>
+  <td><a href="https://subzeronodes.gleeze.com" target="_blank"><img src="https://img.shields.io/badge/SubzeroNodes-000000?style=for-the-badge&logo=bot-hosting&logoColor=white&labelColor=000000&color=blue"/></a></td>
+</div>
 
 <div align="center">
+  <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+</div>
+<center>
 
-## Deploy to Heroku ↓
+</details>
 
-<a href="https://github.com/EspadaTechinfo/deploy-GETSUGA-XMD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<a href="https://GETSUGA-XMD-network.vercel.app/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
+## Credits
 
-## Deploy to Koyeb ↓
+- [Dev](https://github.com/mrfr8nk)
+- [Baileys](https://github.com/WhiskeySockets)
 
-<a href="https://GETSUGA-XMD-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
-  <div>
-<br>
-<div>
-  <br>
+<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
+</h2>
 
+- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-## Deploy to Railway ↓
-#### (No setvar command, must set vars manually from settings)
-<a href="https://railway.app/template/Mt-g4a" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
-  <div>
-<br>
-<div>
-  <br>
+> `POWERED BY MR FRANK OFC 🇿🇼`
+##
 
-## Deploy in VPS [linux] ↓
-<div align="left">
-
-```
-1. Install nodejs, git, ffmpeg
-2. npm i -g yarn pm2
-3. git clone https://github.com/GETSUGA-XMD && cd GETSUGA-XMD
-4. yarn install --ignore-engines --network-concurrency 1
-5. vi config.env
-6. Enter your session there in format 'SESSION=your_session_here'
-7. Press ctrl+c, then type ':wq' and press enter
-8. npm start
-
-Now the bot will start working
-```
-
-  
- ---
- 
-<h2 align="center">  NOTICE </h2>
----
-- *𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use 𝐆𝐄𝐓𝐒𝐔𝐆𝐀 𝐓𝐄𝐍𝐒𝐇𝐎𝐔 at your own risk by keeping this warning in mind.*
- 
-
-- Star ⭐ repo if you like this bot.
-- 
-[![JOIN WHATSAPP SUPPORT](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/CicqD04sNCJ37j13LiI51p)
---------
-
-
-### TOP CONTRIBUTORS
-
-# REAPER 1 : [@5PHESIHLE](https://github.com/Orangefri)#
-
-# REAPER 2 : [@TRISTAN](https://github.com/Tristan7122)# FINAL GETSUGA 
-
-
-# GETSUGA-XMD 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
