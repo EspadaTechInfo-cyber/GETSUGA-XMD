@@ -12,7 +12,7 @@ src="https://files.catbox.moe/bu7bs1.jpg">
 
    </p>
 <p align="center">
-<a href="https://github.com/EspadaTechinfo"><img title="Author" src="https://img.shields.io/badge/5phesihle-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@HoekageTech"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/2771438670"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/EspadaTechinfo"><img title="Author" src="https://img.shields.io/badge/5phesihle-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@HoekageTech"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/27711438670"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
@@ -52,7 +52,7 @@ src="https://files.catbox.moe/bu7bs1.jpg">
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/mrfrankofcc/SUBZERO-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://subzero-mini-31650e91baec.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com/share-bot/11" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
