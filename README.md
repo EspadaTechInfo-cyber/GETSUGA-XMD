@@ -12,7 +12,7 @@ src="https://files.catbox.moe/bu7bs1.jpg">
 
    </p>
 <p align="center">
-<a href="https://github.com/EspadaTechinfo"><img title="Author" src="https://img.shields.io/badge/mrfrank-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@HoekageTech"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/2771438670"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/EspadaTechinfo"><img title="Author" src="https://img.shields.io/badge/5phesihle-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@HoekageTech"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/2771438670"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
