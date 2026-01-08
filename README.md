@@ -12,12 +12,12 @@ src="https://files.catbox.moe/bu7bs1.jpg">
 
    </p>
 <p align="center">
-<a href="https://github.com/mrfr8nk"><img title="Author" src="https://img.shields.io/badge/mrfrank-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@mrfr4nk"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263719647303"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/EspadaTechinfo"><img title="Author" src="https://img.shields.io/badge/5phesihle-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@hoekagetech"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/2771438670"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/mrfr8nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=purple&style=flat-square"></a>
-<a href="https://github.com/mrfrankofcc/SUBZERO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/EspadaTechinfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=purple&style=flat-square"></a>
+<a href="https://github.com/EspadaTechinfo/GETSUGA-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfrankofcc/SUBZERO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/mrfrankofcc/SUBZERO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrfrankofcc/SUBZERO-MD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/rfrankofcc/SUBZERO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfrankofcc/SUBZERO-MD?style=flat-square&color=green"></a>
@@ -77,7 +77,7 @@ src="https://files.catbox.moe/bu7bs1.jpg">
 
 ## Credits
 
-- [Dev](https://github.com/mrfr8nk)
+- [Dev](https://github.com/EspadaTechinfo)
 - [Baileys](https://github.com/WhiskeySockets)
 
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
@@ -85,7 +85,7 @@ src="https://files.catbox.moe/bu7bs1.jpg">
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-> `POWERED BY MR FRANK OFC 🇿🇼`
+> `POWERED BY 5phesihle`
 ##
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
